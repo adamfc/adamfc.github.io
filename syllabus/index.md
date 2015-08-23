@@ -127,3 +127,26 @@ Additional Resources
 + Tutoring: Señora Colombo will hold after-school tutoring Mondays in `A-114 from 2:15-3:15pm` and by appointment (when available).
 + Remind 101: **Parents**, are you tired of constantly checking your child's assignment notebook to make sure that they have their homework turned in on time? **Students**, are you terrible at remembering the homework you were assigned?
 Remind101 is an application that sends texts right to your phone of the homework assignments in Spanish I. TO ENROLL text `@sracolombo` to the number `810810`
+
+Thank you,
+
+Señorita Colombo
+
+-----------------------------------------------------------------------
+(cut along the line and return.)
+
+Syllabus Agreement and Signature
+---
+Parent(s)/Guardians and students, please sign and return by _________________________________. This will let me know that you have reviewed this letter together.
+
+Student name: _______________________________________________________________________
+
+Student signature: _______________________________________________________________________
+
+Parent/Guardian name: _______________________________________________________________________
+
+Parent/Guardian signature: _______________________________________________________________________
+
+Parent/Guardian phone number: _______________________________________________________________________
+
+Parent/Guardian email: _______________________________________________________________________
