@@ -5,6 +5,7 @@ description: > #
   This is the website for Sra. Colombo's Spanish I class.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sra-colombo.com" # the base hostname & protocol for your site
+paginate: 10
 
 # Build settings
 markdown: kramdown
